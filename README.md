@@ -21,3 +21,6 @@ List of completed projects. The data used for each project is available in the p
 ### Deep Learning
 * [Building A Handwritten Digits Classifier](https://github.com/doanda146/Data-Science-Project/blob/main/Building%20A%20Handwritten%20Digits%20Classifier/Building%20A%20Handwritten%20Digits%20Classifier.ipynb).
 * [Titanic Machine Learning from Disaster - Kaggle Competition](https://github.com/doanda146/Data-Science-Project/tree/main/%20Kaggle%20Competition).
+### Data Strucure
+* [Evaluating Numerical Expressions/Evaluating Numerical Expressions Using Stack Data Structure](https://github.com/doanda146/Data-Science-Project/blob/main/%20Evaluating%20Numerical%20Expressions/Evaluating%20Numerical%20Expressions%20Using%20Stack%20Data%20Structure.ipynb).
+* [Analyzing Stock Prices](https://github.com/doanda146/Data-Science-Project/blob/main/Analyzing%20Stock%20Prices/Analyzing%20Stock%20Prices.ipynb).
