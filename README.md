@@ -7,7 +7,7 @@ List of completed projects. The data used for each project is available in the p
 * [Exploring eBay Car Sales Data](https://github.com/doanda146/Data-Science-Project/blob/main/Project%20Exploring%20eBay%20Car%20Sales%20Data/Exploring%20eBay%20Car%20Sales%20Data.ipynb).
 * [Finding Heavy Traffic Indicators on I-94](https://github.com/doanda146/Data-Science-Project/blob/main/Finding%20Heavy%20Traffic%20Indicators%20on%20I-94/Finding%20Heavy%20Traffic%20Indicators%20on%20I-94.ipynb).
 * [Clean and Analyze Employee Exit Surveys](https://github.com/doanda146/Data-Science-Project/blob/main/Clean%20and%20Analyze%20Employee%20Exit%20Surveys/Clean%20and%20Analyze%20Employee%20Exit%20Surveys.ipynb).
-* [/Analyzing NYC High School Data](https://github.com/doanda146/Data-Science-Project/blob/main/Analyzing%20NYC%20High%20School%20Data/Analyzing%20NYC%20High%20School%20Data.ipynb).
+* [Analyzing NYC High School Data](https://github.com/doanda146/Data-Science-Project/blob/main/Analyzing%20NYC%20High%20School%20Data/Analyzing%20NYC%20High%20School%20Data.ipynb).
 * [Star Wars Survey](https://github.com/doanda146/Data-Science-Project/blob/main/Star%20Wars%20Survey/Star%20Wars%20Survey.ipynb).
 * [Popular Data Science Questions](https://github.com/doanda146/Data-Science-Project/blob/main/Popular%20Data%20Science%20Questions/Popular%20Data%20Science%20Questions.ipynb).
 ### SQL:
