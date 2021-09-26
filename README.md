@@ -13,6 +13,8 @@ List of completed projects. The data used for each project is available in the p
 ### SQL:
 * [Analyzing CIA Factbook Data Using SQL](https://github.com/doanda146/Data-Science-Project/blob/main/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL.ipynb).
 * [Answering Business Questions Using SQL](https://github.com/doanda146/Data-Science-Project/blob/main/Answering%20Business%20Questions%20Using%20SQL/%20Answering%20Business%20Questions%20Using%20SQL.ipynb).
+### Statistics:
+* [Building a Spam Filter with Naive Bayes](https://github.com/doanda146/Data-Science-Project/blob/main/Building%20a%20Spam%20Filter%20with%20Naive%20Bayes/Building%20a%20Spam%20Filter%20with%20Naive%20Bayes.ipynb)
 ### Machine Learning:
 * [Predicting Car Prices](https://github.com/doanda146/Data-Science-Project/blob/main/Predicting%20Car%20Prices/Predicting%20Car%20Prices.ipynb).
 * [Predicting House Sale Prices](https://github.com/doanda146/Data-Science-Project/blob/main/Predicting%20House%20Sale%20Prices/Predicting%20House%20Sale%20Prices.ipynb).
